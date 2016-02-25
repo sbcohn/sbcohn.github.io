@@ -49,14 +49,14 @@
   border-color: #398F28 !important;
 }
 
-.bg-blue {
+.bg-blue .panel-heading:hover {
   background: #0A29C5 !important;
   color: white !important;
   border-color: #0A29C5 !important;
 }
 
 
-.bg-orange, a.btn:hover, .panel-heading:hover  {
+.bg-orange, a.btn:hover,   {
   background: #D94000 !important;
   border-color: #D94000 !important;
   color: white !important;
