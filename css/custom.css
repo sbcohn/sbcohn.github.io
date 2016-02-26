@@ -50,9 +50,9 @@
 }
 
 .bg-blue {
-  background: #0A29C5 !important;
+  background: #72a5fd !important;
   color: white !important;
-  border-color: #0A29C5 !important;
+  border-color: #72a5fd !important;
 }
 
 .bg-ltblue, .panel-heading:hover {
@@ -69,5 +69,5 @@
 /*jumbotron color
 ----------------------------- */
 .other-color{
-    background: blue
+    background: #72a5fd
   }
