@@ -66,3 +66,8 @@
   border-color: #D94000 !important;
   color: white !important;
 }
+/*jumbotron color
+----------------------------- */
+.other-color{
+    background: blue
+  }
