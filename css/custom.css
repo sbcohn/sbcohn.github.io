@@ -113,9 +113,11 @@
 ----------------------------- */
 
 .container-header {
+  padding-top: 15px;
   padding-right: 15px;
+  padding-bottom: 15px;
   padding-left: 15px;
-  margin-right: 5px;
+  margin-right: 0;
   margin-left: auto;
 }
 
