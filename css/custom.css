@@ -78,6 +78,12 @@
   border-color: #003A3D !important;
 }
 
+.bg-blueEight, .panel-heading:hover {
+  background: #01C1CB !important;
+  color: white !important;
+  border-color: #01C1CB !important;
+}
+
 .bg-red {
   background: #ff4b00 !important;
   color: white !important;
@@ -96,19 +102,25 @@
   border-color: #0054D9 !important;
 }
 
-.bg-ltblue, .panel-heading:hover {
-  background: #01C1CB !important;
-  color: white !important;
-  border-color: #01C1CB !important;
-}
 
 .bg-orange, a.btn:hover   {
   background: #D94000 !important;
   border-color: #D94000 !important;
   color: white !important;
 }
+
+/*jumbotron container align right, I hope
+----------------------------- */
+
+.container-header {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: 0;
+  margin-left: auto;
+}
+
 /*jumbotron color
 ----------------------------- */
 .other-color{
-    background: #0054D9
+    background: #003A3D
   }
