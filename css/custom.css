@@ -36,6 +36,47 @@
 
 /* Color blocks
 -------------------------------------------------- */
+.bg-blueOne {
+  background: #01ABB4 !important;
+  color: white !important;
+  border-color: #01ABB4 !important;
+}
+
+.bg-blueTwo {
+  background: #019AA2 !important;
+  color: white !important;
+  border-color: #019AA2 !important;
+}
+
+.bg-blueThree {
+  background: #01878E !important;
+  color: white !important;
+  border-color: #01878E !important;
+}
+
+.bg-blueFour {
+  background: #01747A !important;
+  color: white !important;
+  border-color: #01747A !important;
+}
+
+.bg-blueFive {
+  background: #016065 !important;
+  color: white !important;
+  border-color: #016065 !important;
+}
+
+.bg-blueSix {
+  background: #004D51 !important;
+  color: white !important;
+  border-color: #004D51!important;
+}
+
+.bg-blueSeven {
+  background: #003A3D !important;
+  color: white !important;
+  border-color: #003A3D !important;
+}
 
 .bg-red {
   background: #ff4b00 !important;
@@ -56,9 +97,9 @@
 }
 
 .bg-ltblue, .panel-heading:hover {
-  background: #2148E2 !important;
+  background: #01D4DF !important;
   color: white !important;
-  border-color: #2148E2 !important;
+  border-color: #01D4DF !important;
 }
 
 .bg-orange, a.btn:hover   {
