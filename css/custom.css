@@ -14,7 +14,6 @@
 /*jumbotron 
 ----------------------------- */
  .jumbotron {
-  background-image: url(images/california.jpg);
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
