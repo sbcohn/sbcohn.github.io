@@ -20,6 +20,11 @@
   margin-bottom:0px;
 }
 
+body {
+    background-image: url("turkey.jpg");
+    background-repeat: no-repeat;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
